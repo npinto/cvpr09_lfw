@@ -1,0 +1,6 @@
+[submodule "v1like"]
+	path = v1like
+	url = git@github.com:npinto/v1like.git
+[submodule "sclas"]
+	path = sclas
+	url = git@github.com:npinto/sclas.git
